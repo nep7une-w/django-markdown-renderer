@@ -1,0 +1,5 @@
+Django>=4.2,<5.1
+markdown>=3.5
+pymdown-extensions>=10.7
+xhtml2pdf>=0.2.15
+matplotlib>=3.8

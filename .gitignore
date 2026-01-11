@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+
+# Django
+*.log
+*.pot
+*.pyc
+local_settings.py
+
+# SQLite
+*.sqlite3
+
+# Editor/OS
+.DS_Store
+Thumbs.db
+
+# Build outputs
+*.pdf

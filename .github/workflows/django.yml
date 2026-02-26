@@ -16,7 +16,7 @@ jobs:
       - name: Install operating system packages
         run: |
           sudo apt update
-          sudo apt install -y libcairo2-dev pkg-config
+          sudo apt install -y libcairo2-dev
       - name: Set up Python ${{ matrix.python-version }}
         uses: actions/setup-python@v6
         with:

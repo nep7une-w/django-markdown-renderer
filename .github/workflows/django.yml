@@ -2,7 +2,7 @@ name: Run Django Tests
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
   test-django-app:
